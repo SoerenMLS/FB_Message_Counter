@@ -10,6 +10,6 @@ It was created to search through group chat messages, to see how many times some
 5. Profit?
 
 # Future Works
-Replaciong hardcoded filepath in MessageReader class, with userchosen filepath.
-Reaction Count.
-Sorting on most reacted messages.
+- Replaciong hardcoded filepath in MessageReader class, with userchosen filepath
+- Reaction Count
+- Sorting on most reacted messages
